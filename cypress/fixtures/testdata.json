@@ -1,0 +1,11 @@
+{
+    "filePath":"cypress/fixtures/sampleImage.jpeg",
+    "name":"Surajit Sarkar",
+    "email":"test@test.com",
+    "website":"http://myweb.com",
+    "experience":"10+",
+    "alerMsg1":"Do you really fill rest of the form?",
+    "alertMsg2":"Good Luck. Go for it",
+    "comment":"Interacting with Cypress Text area...",
+    "successMsg":"Message Sent (go back)"
+}
