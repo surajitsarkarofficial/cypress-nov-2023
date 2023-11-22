@@ -1,6 +1,4 @@
-///<reference types="cypress" />
 import {faker} from '@faker-js/faker'
-
 describe('Use Faker API', () => {
     let data;
     beforeEach("Launch Application",()=>{

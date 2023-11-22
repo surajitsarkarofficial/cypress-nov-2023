@@ -1,4 +1,3 @@
-///<reference types="cypress" />
 
 describe('Handle Data using Fixtures', () => {
     let data;
